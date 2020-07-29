@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+La terre est une cerise qui se mange froide
 Use the left arrow to go back!
